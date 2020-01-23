@@ -1,3 +1,7 @@
 #work-responses {
-  display: hidden;
+  display: none;
+}
+
+#fun-responses {
+  display: none;
 }
